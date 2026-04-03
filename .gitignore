@@ -1,0 +1,13 @@
+
+#virtual environment:
+.venv
+
+
+#outputs:
+*.pdf
+*.json
+*.sql
+
+#env files:
+.env
+
