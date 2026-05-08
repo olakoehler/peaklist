@@ -14,12 +14,6 @@ A data pipeline and backend for tracking mountain ascents in the Tatra range.
 - **PostgreSQL** — peak data storage (hosted on Neon)
 - **OpenStreetMap / Overpass API** — source of peak data
 
-## Planned
-
-- Spring Boot REST API
-- Elasticsearch for peak search
-- User accounts and ascent logging
-- Multi-range support beyond the Tatras
 
 ## Setup
 
